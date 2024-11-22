@@ -15,8 +15,10 @@
 
 
 ### 2. Create a GitHub Account  
+```
      https://github.com/join
-
+```
+    
 ### 3. Configure Git Bash or Terminal 
  ```
    git config --global user.name "Your GitHub username"
