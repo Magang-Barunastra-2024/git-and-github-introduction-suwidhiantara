@@ -23,13 +23,14 @@
    git config --global user.name "Your GitHub username"
    git config --global user.email "youremail@example.com"
  ```
+ ![alt text](image.png)
 ### 4. Generate SSH Keys
 #### a. Open Git Bash
 #### b. Generate your SSH key 
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
-![alt text](image.png)
+![alt text](image-1.png)
 #### c. Press enter twice
 #### d. Copy SSH key: 
 ```
@@ -37,10 +38,10 @@ clip < ~/.ssh/id_ed25519.pub
 ```
 #### or
 ```
-cd ~/.ssh
-cat id_ed25519.pub
+cd ~/.ssh cat id_ed25519.pub
 ```
 #### e. Go to GitHub Settings -> SSH and GPG keys -> New SSH Key
+![alt text](image-2.png)
 #### f. Paste the copied SSH key
 
 ## Create Repository
@@ -48,11 +49,16 @@ cat id_ed25519.pub
 ```
 https://github.com/new
 ```
+![alt text](image-3.png)
 
 ### 2. Enter Repository Name
+![alt text](image-4.png)
 ### 3. Choose Repository Type (public/private)
+![alt text](image-5.png)
 ### 4. Click "Create Repository"
+![alt text](image-6.png)
 ### 5. Copy Repository SSH Link
+![alt text](image-7.png)
 ### 6. Connect the Repository to a Local Folder
 #### a. Local Folder
    #####  i. Create a folder with an identical name to the repository 
