@@ -11,7 +11,8 @@
     https://git-scm.com/downloads
    ```
 
-    ![alt text][/images/image.png]
+  ![alt text](https://github.com/Magang-Barunastra-2024/git-and-github-introduction-suwidhiantara/blob/main/images/image.png)
+
 
 ### 2. Create a GitHub Account  
      https://github.com/join
