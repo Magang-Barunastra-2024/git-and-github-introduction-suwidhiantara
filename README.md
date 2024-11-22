@@ -11,14 +11,13 @@
     https://git-scm.com/downloads
    ```
 
-  ![alt text](https://github.com/Magang-Barunastra-2024/git-and-github-introduction-suwidhiantara/blob/main/images/image.png)
-
+  ![alt text](images/image.png)
 
 ### 2. Create a GitHub Account  
 ```
      https://github.com/join
 ```
-    
+  ![alt text](images/github_join.png)
 ### 3. Configure Git Bash or Terminal 
  ```
    git config --global user.name "Your GitHub username"
@@ -30,6 +29,7 @@
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
+![alt text](image.png)
 #### c. Press enter twice
 #### d. Copy SSH key: 
 ```
